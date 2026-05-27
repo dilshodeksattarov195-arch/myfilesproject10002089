@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderrerify",
+        "uuid": 10869067,
+        "checksum": "3cz1ka"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
